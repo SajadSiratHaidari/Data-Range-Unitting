@@ -1,2 +1,3 @@
-# Data-Range-Unitting
+# Data-Range-Uniting
 This repository explains simple technique for memory management and its aspect containment.
+Any form of unit in C++ is a memory structure that can be reused or reshaped for many various paths which overall create a responsive usage of memory rather than abstracted data manipulation structure therefore for any consideration of conduct in making code easier to digest and manipulate the function primarily keeps every byte in the std::vector; In any scenario this can be used to reshape the identity or structure of a unit in C++ for resilience and magnitude scaling property of that eventually leads to an efficient memory management. This explains how coding can entirely be driven for architectural unification rather than maximal footprint reduction so it is wise for any programmer to convey it as a correction for shape design rather than a portal for revising integers.
